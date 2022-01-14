@@ -2,3 +2,5 @@
 pillow
 django 
 drf
+dfgh
+sdfg
